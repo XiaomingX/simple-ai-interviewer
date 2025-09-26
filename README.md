@@ -30,7 +30,7 @@ Designed for simplicity and learnability—perfect for students, job seekers, or
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/simple-ai-interviewer.git
+git clone https://github.com/XiaomingX/simple-ai-interviewer.git
 cd simple-ai-interviewer
 ```
 
